@@ -32,7 +32,7 @@ My work focuses on **Python data pipelines, data cleaning and analysis workflows
 
 Alongside data and AI work, I have experience with **mobile and backend development, REST APIs, and troubleshooting hardware and software issues**. I enjoy taking ideas from prototype to complete applications — from data collection and processing to interactive dashboards and mobile apps.
 
-My broader interests include **Retrieval-Augmented Generation, Embeddings, Process Automation, Data Visualization, and Applied Machine Learning**.
+My broader interests include **Agentic AI, Process Automation, Data Visualization, and Applied Machine Learning**.
 
 ---
 
