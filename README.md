@@ -10,7 +10,7 @@
 
 <br>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/aftab-hussain-b18a18295">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:aftabgh43@gmail.com">
@@ -87,7 +87,7 @@ A mobile app that analyzes a YouTube fitness creator's channel and generates a *
 - Workout execution screen with set logging and rest timer
 - Progress screen with streak tracking and volume charts
 
-[View Repository](https://github.com/aftabhuss/YOUR_FITSCRIPT_REPO)
+[View Repository](https://github.com/aftabhuss/FitScipt)
 
 `React Native` `Expo Router` `FastAPI` `Gemini 2.5 Flash` `Firebase` `YouTube Data API v3`
 
@@ -103,7 +103,7 @@ An automated **ETL pipeline** that scrapes live job-market data and turns it int
 - Cleaned unstructured text and integrated an LLM to extract required technical skills automatically, replacing manual review
 - Developed a Streamlit dashboard visualizing hiring trends and seniority distributions
 
-[View Repository](https://github.com/aftabhuss/YOUR_JOB_TRACKER_REPO)
+[View Repository](https://github.com/aftabhuss/internship_tracker)
 
 `Python` `Playwright` `Pandas` `Streamlit` `Groq API`
 
@@ -120,7 +120,7 @@ The project combines:
 - Retrieval-augmented generation
 - LLM-based question answering
 
-[View Repository](https://github.com/aftabhuss/YOUR_PDF_BOT_REPO)
+[View Repository](https://github.com/aftabhuss/rag_bot)
 
 `Python` `LangChain` `OpenAI API` `RAG` `Embeddings`
 
@@ -136,7 +136,7 @@ The project includes:
 - Exploratory data analysis and visualization of price trends and volatility
 - A basic price-estimation model using historical averages
 
-[View Repository](https://github.com/aftabhuss/YOUR_CRYPTO_REPO)
+[View Repository](https://github.com/aftabhuss/crypto-price-predictor)
 
 `Python` `Pandas` `Matplotlib` `Data Analysis`
 
@@ -294,7 +294,7 @@ I'm always open to discussing **data, AI, software projects, internships, and co
 
 <br>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/aftab-hussain-b18a18295">
   <img src="https://img.shields.io/badge/LinkedIn-Aftab%20Hussain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
